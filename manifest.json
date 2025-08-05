@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "新金借款提醒小幫手",
+  "version": "1.0",
+  "description": "快速撥打、播放語音與提醒聯繫客戶的小幫手工具。",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icon.png"
+    }
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
