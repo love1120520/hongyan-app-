@@ -6,6 +6,7 @@ body {
   padding: 20px;
 }
 
+/* Default link and heading colors (can be overridden in specific pages) */
 a {
   color: #ffd700;
 }
