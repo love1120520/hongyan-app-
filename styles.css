@@ -1,0 +1,15 @@
+/* Common styles for all pages */
+body {
+  font-family: 'Noto Sans TC', sans-serif;
+  background: #111;
+  color: white;
+  padding: 20px;
+}
+
+a {
+  color: #ffd700;
+}
+
+h1, h2 {
+  color: gold;
+}
